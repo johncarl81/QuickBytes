@@ -222,7 +222,7 @@ First login to a CARC cluster head node.
 Next we will load the singularity module:
 
 ```
-$ module load singularity-2.4.1-intel-17.0.4-sjwoqj4 $
+$ module load singularity-2.4.1-intel-17.0.4-sjwoqj4
 ```
 
 The syntax for executing Singularity images are similar to those we used for docker:
